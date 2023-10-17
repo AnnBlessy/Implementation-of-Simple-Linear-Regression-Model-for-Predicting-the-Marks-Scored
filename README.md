@@ -69,18 +69,21 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
-
 To read csv file
 
 ![EXP2-1](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/8b1b1bf7-e639-4ceb-913e-b3923ae057f2)
+
 
 To Read Head and Tail Files
 
 ![EXP2-2](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/205a4ed2-5813-4570-95c3-c7dbe7279511)
 
+
+
 Compare Dataset
 
 ![EXP2-31](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/cc60f8f8-a524-4d0d-bb6a-60d99e2a41c7)
+
 
 
 Predicted Value
@@ -88,14 +91,18 @@ Predicted Value
 ![EXP2-3](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/921c4e15-3be1-4187-aded-c63aadaa8a26)
 
 
+
 Graph For Training Set
 
 ![EXP2-4](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1c9e8b15-9199-4037-b22f-f026defe8889)
 
 
+
+
 Graph For Testing Set
 
 ![EXP2-5](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/f9ed7cc5-e28a-4376-aac4-efcd9cdc92f9)
+
 
 
 Error
