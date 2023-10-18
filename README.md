@@ -69,8 +69,6 @@ rmse=np.sqrt(mse)
 print("Root Mean Square Error = ",rmse)
 ```
 
-
-
 ## Output:
 
 df.head()
@@ -80,6 +78,7 @@ df.head()
 df.tail()
 
 ![EXP2-2(b)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1e89f794-316e-495d-8cc6-d996bf4aa8fb)
+
 
 
 
@@ -105,9 +104,12 @@ Array Values of Y test
 
 
 
+
 Graph For Training Set
 
 ![EXP2-4](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1c9e8b15-9199-4037-b22f-f026defe8889)
+
+
 
 
 
