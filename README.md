@@ -69,33 +69,38 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
-To read csv file
 
-![EXP2-1](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/8b1b1bf7-e639-4ceb-913e-b3923ae057f2)
+df.head()
 
+![EXP2-2(a)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/83e836a5-4565-48a7-9977-a7f085fe48d5)
 
-To Read Head and Tail Files
+df.tail()
 
-![EXP2-2](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/205a4ed2-5813-4570-95c3-c7dbe7279511)
-
-
-
-Compare Dataset
-
-![EXP2-31](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/cc60f8f8-a524-4d0d-bb6a-60d99e2a41c7)
+![EXP2-2(b)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1e89f794-316e-495d-8cc6-d996bf4aa8fb)
 
 
+Array value of X
 
-Predicted Value
+![EXP2-3(a)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/6f0f203a-f964-45a6-8fef-03c94460ab0f)
 
-![EXP2-3](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/921c4e15-3be1-4187-aded-c63aadaa8a26)
 
+Array value of Y
+
+![EXP2-3(b)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/b395273b-5b41-401e-b75e-ece609b0ba79)
+
+
+Values of Y Prediction
+
+![EXP2-3(c)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/e3e7d3bb-9a18-4345-a77c-a82898b9bee6)
+
+Array Values of Y test
+
+![EXP2-3(d)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/e0268633-13d2-49c9-9a4a-b970839acf42)
 
 
 Graph For Training Set
 
 ![EXP2-4](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1c9e8b15-9199-4037-b22f-f026defe8889)
-
 
 
 
