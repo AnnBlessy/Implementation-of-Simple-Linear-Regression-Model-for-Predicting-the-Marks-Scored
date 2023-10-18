@@ -15,6 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 3. Plot the scatter plot. 
 4. Use mse,rmse,mae formula to find the values.
 
+
 ## Program:
 ```
 Developed by: ANN BLESSY PHILIPS
@@ -68,6 +69,8 @@ rmse=np.sqrt(mse)
 print("Root Mean Square Error = ",rmse)
 ```
 
+
+
 ## Output:
 
 df.head()
@@ -77,6 +80,7 @@ df.head()
 df.tail()
 
 ![EXP2-2(b)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1e89f794-316e-495d-8cc6-d996bf4aa8fb)
+
 
 
 Array value of X
@@ -93,14 +97,18 @@ Values of Y Prediction
 
 ![EXP2-3(c)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/e3e7d3bb-9a18-4345-a77c-a82898b9bee6)
 
+
 Array Values of Y test
 
 ![EXP2-3(d)](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/e0268633-13d2-49c9-9a4a-b970839acf42)
 
 
+
+
 Graph For Training Set
 
 ![EXP2-4](https://github.com/AnnBlessy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477835/1c9e8b15-9199-4037-b22f-f026defe8889)
+
 
 
 
