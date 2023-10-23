@@ -10,6 +10,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 
 ## Algorithm
+
 1.import the needed packages. 
 2. Assigning hours to x and scores to y. 
 3. Plot the scatter plot. 
